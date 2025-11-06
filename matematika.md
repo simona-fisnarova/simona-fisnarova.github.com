@@ -5,15 +5,35 @@ layout: default
 
 # Matematika (MTL) - ZS 2025/26
 
-### Důležité informace:
+## Důležité informace:
 
-- [Základní informace](https://user.mendelu.cz/fisnarov/mtl/info/info-25.pdf),  [instrukce k závěrečné
+ [Základní informace](https://user.mendelu.cz/fisnarov/mtl/info/info-25.pdf),  [instrukce k závěrečné
   písemce](https://user.mendelu.cz/fisnarov/mtl/info/z_instrukce_25.pdf)  
   Ukázky písemek: [ukázka 1](https://user.mendelu.cz/fisnarov/mtl/info/u1.pdf),  [ukázka
   2](https://user.mendelu.cz/fisnarov/mtl/info/u2.pdf) 
 
+
+### Bonusové úkoly pro studenty prezenční formy:
+
+- [Bonus 1 - prez](mtl/bonus/bonus1.pdf),  deadline 20.10.2025, 
+  [řešení](mtl/bonus/bonus1-reseni.pdf)  
+-  [Bonus 2 - prez](mtl/bonus/bonus2.pdf),  deadline 3.11.2025, 
+  [řešení](mtl/bonus/bonus2-reseni.pdf)  
+- [Bonus 3 - prez](mtl/bonus/bonus3.pdf),  deadline 19.11.2025
+
+### Bonusové úkoly pro studenty kombinované formy:
+
+- [Bonus 1 - kombi](mtl/bonus/bonus1-kombi.pdf),  deadline 20.10.2025, 
+  [řešení](mtl/bonus/bonus1-reseni_k.pdf)  
+-  [Bonus 2 - kombi](mtl/bonus/bonus2-kombi.pdf),  deadline 27.10.2025, 
+  [řešení](mtl/bonus/bonus2-reseni_k.pdf)  
+- [Bonus 3 - kombi](mtl/bonus/bonus3-kombi.pdf),  deadline 10.11.2025
+
+
+
+
 --------------------------------------------------------------
-### Přednášky a cvičení (PDF):
+## Přednášky a cvičení (PDF):
 
 - Vektory a matice   [prezentace](https://user.mendelu.cz/fisnarov/mtl/prednasky/matice.pdf),   [Leslieho
   model I](https://user.mendelu.cz/fisnarov/mtl/prednasky/leslie_1.pdf),   [Markovovy
@@ -54,7 +74,7 @@ layout: default
   (určitý integrál),   [řešené příklady](https://user.mendelu.cz/fisnarov/mtl/pdfvideo/cv-integraly.pdf) 
 
 ------------------------------------------------------------------------
-### Videa:
+## Videa:
 
 - Vektory a matice   [prezentace 1. část](https://youtu.be/vXrCG0CLVxI),
     [řešené příklady 1](https://youtu.be/y_9cQ_9UWQA) (počítání s
@@ -104,7 +124,7 @@ layout: default
   integrál](https://youtu.be/FCjg2nwopk8)
 
 ------------------------------------------------------------------------
-### Příklady k počítání:
+## Příklady k počítání:
 
 - [Matice a soustavy](https://user.mendelu.cz/fisnarov/mtl/priklady/lingebra.pdf)
 - [Vlastní hodnoty a vektory matic](https://user.mendelu.cz/fisnarov/mtl/priklady/vl_hodnoty.pdf)
@@ -117,7 +137,7 @@ layout: default
 - [Integrály](https://user.mendelu.cz/fisnarov/mtl/priklady/integraly.pdf)
 
 ------------------------------------------------------------------------
-### Další materiály:
+## Další materiály:
 
 - [Grafy elementárních
   funkcí](http://user.mendelu.cz/marik/grafy-zakl-fci.pdf)  (R. Mařík)
@@ -126,7 +146,7 @@ layout: default
   Mařík)
 
 ------------------------------------------------------------------------
-### Užití počítačů při matematických výpočtech:
+## Užití počítačů při matematických výpočtech:
 
 - [Wolfram Alpha](http://www.wolframalpha.com/) - vyřeší nejen různé
   matematické příklady, ale zodpoví i dotazy z jiných oborů
