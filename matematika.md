@@ -109,6 +109,7 @@ layout: default
 - [Extrémy funkcí dvou proměnných](https://user.mendelu.cz/fisnarov/mtl/priklady/extremy2.pdf)
 - [Integrály](https://user.mendelu.cz/fisnarov/mtl/priklady/integraly.pdf)
 
+------------------------------------------------------------------------
 ### Další materiály:
 
 - [Grafy elementárních
@@ -117,6 +118,7 @@ layout: default
   integrování](http://user.mendelu.cz/marik/kraj/vzorce-CZ.pdf)  (R.
   Mařík)
 
+------------------------------------------------------------------------
 ### Užití počítačů při matematických výpočtech:
 
 - [Wolfram Alpha](http://www.wolframalpha.com/) - vyřeší nejen různé
