@@ -60,12 +60,12 @@ layout: default
 
 #### Příklady k počítání:
 
-- [Matice a soustavy](mtl/priklady/lingebra.pdf)
-- [Vlastní hodnoty a vektory matic](mtl/priklady/vl_hodnoty.pdf)
-- [Funkce](mtl/priklady/funkce.pdf)
-- [Derivace a parciální derivace](mtl/priklady/derivace.pdf)
+- [Matice a soustavy](https://user.mendelu.cz/fisnarov/mtl/priklady/lingebra.pdf)
+- [Vlastní hodnoty a vektory matic](https://user.mendelu.cz/fisnarov/mtl/priklady/vl_hodnoty.pdf)
+- [Funkce](https://user.mendelu.cz/fisnarov/mtl/priklady/funkce.pdf)
+- [Derivace a parciální derivace](https://user.mendelu.cz/fisnarov/mtl/priklady/derivace.pdf)
 - [Monotonie, extrémy, konvexnost a
-  konkávnost](mtl/priklady/extremy.pdf)
-- [Vlastnosti funkcí z grafů](mtl/priklady/grafy.pdf)
-- [Extrémy funkcí dvou proměnných](mtl/priklady/extremy2.pdf)
-- [Integrály](mtl/priklady/integraly.pdf)
+  konkávnost](https://user.mendelu.cz/fisnarov/mtl/priklady/extremy.pdf)
+- [Vlastnosti funkcí z grafů](https://user.mendelu.cz/fisnarov/mtl/priklady/grafy.pdf)
+- [Extrémy funkcí dvou proměnných](https://user.mendelu.cz/fisnarov/mtl/priklady/extremy2.pdf)
+- [Integrály](https://user.mendelu.cz/fisnarov/mtl/priklady/integraly.pdf)
