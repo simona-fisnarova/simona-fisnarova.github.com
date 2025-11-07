@@ -7,4 +7,4 @@ layout: home
 * [Základy vyšší matematiky (ZMTL)](zmtl.html)
 * [Mathematics](mathematics.html)
 
-Tady jeste neco bude....
+
