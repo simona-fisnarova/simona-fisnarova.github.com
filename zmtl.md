@@ -5,59 +5,60 @@ layout: default
 
 
 # Základy vyšší matematiky (ZMTL) - LS 2025/26
+<!--
 
 ## Důležité informace:
 
-- [Základní informace](zmtl/info/info_25.pdf),  [instrukce ke zkouškové
-  písemce](zmtl/info/z_instrukce_25.pdf)  
-  Ukázky písemek: [ukázka písemky I](zmtl/info/u1.pdf) 
-  [(řešení)](zmtl/info/u1_reseni.pdf),  [ukázka písemky
-  II](zmtl/info/u2.pdf),  [(řešení)](zmtl/info/u2_reseni.pdf)
-
+- [Základní informace](zvmt/info/info_25.pdf)
+- [instrukce ke zkouškové písemce](zvmt/info/z_instrukce_25.pdf)  
+- Ukázky písemek: [ukázka I](zvmt/info/u1.pdf) &nbsp; [řešení](zvmt/info/u1_reseni.pdf),&nbsp;
+  [ukázka II](zvmt/info/u2.pdf) &nbsp; [(řešení)](zvmt/info/u2_reseni.pdf)
+-->
 ## Přednášky a cvičení (PDF):
 
 - Diferenciální rovnice - základní pojmy a rovnice se separovanými proměnnými <br>
- [prezentace](zmtl/prednasky/dr_separ.pdf),
-[řešené příklady](zmtl/pdfvideo/cv-dr_separ.pdf)
+ [prezentace](zvmt/prednasky/dr_separ.pdf),
+[řešené příklady](zvmt/pdfvideo/cv-dr_separ.pdf)
 
 - Lineární diferenciální rovnice 1.řádu  
-[prezentace](zmtl/prednasky/dr_lin.pdf),
-[řešené příklady](zmtl/pdfvideo/cv-dr_lin1.pdf)
+[prezentace](zvmt/prednasky/dr_lin.pdf),
+[řešené příklady](zvmt/pdfvideo/cv-dr_lin1.pdf)
 
 - Lineární diferenciální rovnice 2.řádu  
- [prezentace](zmtl/prednasky/dr_lin2.pdf),
-[řešené příklady](zmtl/pdfvideo/cv-lin2.pdf)
+ [prezentace](zvmt/prednasky/dr_lin2.pdf),
+[řešené příklady](zvmt/pdfvideo/cv-lin2.pdf)
 
 - Aplikace diferenciálníc rovnic <br>
-[populační modely](zmtl/aplikace/populace.pdf),
-[slovní úlohy na rovnice 1.řádu](zmtl/aplikace/apl-dr1.pdf),
-[rovnice 2. řádu (pružina a výška stromu)](zmtl/aplikace/apl-dr_lin2.pdf)
+[populační modely](zvmt/aplikace/populace.pdf),
+[slovní úlohy na rovnice 1.řádu](zvmt/aplikace/apl-dr1.pdf),
+[rovnice 2. řádu (pružina a výška stromu)](zvmt/aplikace/apl-dr_lin2.pdf)
 
 - Autonomní systémy   <br>
-[prezentace](zmtl/prednasky/aut_sys.pdf), [řešené příklady](zmtl/pdfvideo/cv-aut_sys.pdf),
-[model dravec-kořist](zmtl/aplikace/dravec.pdf), [kreslení trajektorií](https://homepages.bluffton.edu/~nesterd/apps/slopefields.html)
+[prezentace](zvmt/prednasky/aut_sys.pdf), [řešené příklady](zmtl/pdfvideo/cv-aut_sys.pdf),
+[model dravec-kořist](zvmt/aplikace/dravec.pdf), [kreslení trajektorií](https://homepages.bluffton.edu/~nesterd/apps/slopefields.html)
 
 - Dvojný integrál   <br>
-[prezentace](zmtl/prednasky/dvojny_int.pdf),
-[řešené příklady I](zmtl/pdfvideo/cv-int.pdf),  [řešené příklady II (polární souřadnice)](zmtl/pdfvideo/cv-int_polar.pdf),
-[aplikace](zmtl/aplikace/dvojny_int-apl.pdf)
+[prezentace](zvmt/prednasky/dvojny_int.pdf),
+[řešené příklady I](zvmt/pdfvideo/cv-int.pdf),
+[řešené příklady II (polární souřadnice)](zvmt/pdfvideo/cv-int_polar.pdf),
+[aplikace](zvmt/aplikace/dvojny_int-apl.pdf)
 
 - Křivkový integrál   
- [prezentace I (1. druhu)](zmtl/prednasky/1-krivkovy.pdf),
-[řešené příklady I (1. druhu)](zmtl/pdfvideo/cv-krivkovy1.pdf),
-[prezentace II (2. druhu)](zmtl/prednasky/2-krivkovy.pdf),
-[řešené příklady II (2. druhu)](zmtl/pdfvideo/cv-krivkovy2.pdf), <br>
-[Diferenciální operátory](zmtl/prednasky/operatory.pdf),
-[Nezávislost na integrační cestě](zmtl/prednasky/krivkovy_nezav.pdf),
-[Greenova věta](zmtl/prednasky/green.pdf)
+ [prezentace I (1. druhu)](zvmt/prednasky/1-krivkovy.pdf),
+[řešené příklady I (1. druhu)](zvmt/pdfvideo/cv-krivkovy1.pdf),
+[prezentace II (2. druhu)](zvmt/prednasky/2-krivkovy.pdf),
+[řešené příklady II (2. druhu)](zvmt/pdfvideo/cv-krivkovy2.pdf), <br>
+[Diferenciální operátory](zvmt/prednasky/operatory.pdf),
+[Nezávislost na integrační cestě](zvmt/prednasky/krivkovy_nezav.pdf),
+[Greenova věta](zvmt/prednasky/green.pdf)
 
 - Základy teorie grafů <br>
-[prezentace](zmtl/prednasky/grafy.pdf),
-[řešené příklady I](zmtl/pdfvideo/cv-grafy.pdf),
-[řešené příklady II](zmtl/priklady/prikl_grafy.pdf)
+[prezentace](zvmt/prednasky/grafy.pdf),
+[řešené příklady I](zvmt/pdfvideo/cv-grafy.pdf),
+[řešené příklady II](zvmt/priklady/prikl_grafy.pdf)
 
 - Den Pí (k rozptýlení dne 14.3.)  
-[prezentace](zmtl/prednasky/den_pi.pdf)
+[prezentace](zvmt/prednasky/den_pi.pdf)
 
 ## Videa:
 
@@ -112,13 +113,13 @@ layout: default
 
 ## Příklady k počítání:
 
-- [Rovnice se separovanými proměnnými](zmtl/priklady/dr_sep.pdf)
-- [Lineární rovnice 1. řádu](zmtl/priklady/dr_lin1.pdf)
-- [Lineární rovnice 2. řádu](zmtl/priklady/dr_lin2.pdf)
-- [Slovní úlohy na diferenciální rovnice](zmtl/priklady/dr_ulohy.pdf),  [řešení](zmtl/priklady/dr_ulohy_reseni.pdf)
-- [Autonomní systémy](zmtl/priklady/aut_sys.pdf)
-- [Dvojný integrál](zmtl/priklady/dvojny_int.pdf)
-- [Křivkový integrál](zmtl/priklady/krivkovy.pdf)
+- [Rovnice se separovanými proměnnými](zvmt/priklady/dr_sep.pdf)
+- [Lineární rovnice 1. řádu](zvmt/priklady/dr_lin1.pdf)
+- [Lineární rovnice 2. řádu](zvmt/priklady/dr_lin2.pdf)
+- [Slovní úlohy na diferenciální rovnice](zvmt/priklady/dr_ulohy.pdf),  [řešení](zvmt/priklady/dr_ulohy_reseni.pdf)
+- [Autonomní systémy](zvmt/priklady/aut_sys.pdf)
+- [Dvojný integrál](zvmt/priklady/dvojny_int.pdf)
+- [Křivkový integrál](zvmt/priklady/krivkovy.pdf)
 
 ## Užití počítačů při matematických výpočtech:
 
