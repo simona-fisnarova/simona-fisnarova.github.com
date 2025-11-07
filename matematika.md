@@ -5,6 +5,11 @@ layout: default
 
 # Matematika (MTL) - ZS 2025/26
 
+Tato stránka věnovaná výuce předmětu Matematika, který vyučuji pro studenty lesnictví na LDF MENDELU v prvním semestru. 
+Níže najdete informace o ukončení předmětu, zadání bonusových úkolů a výukové materiály. Bonusové úkoly jsou dobrovolné 
+a budou zde vyvěšovány postupně v průběhu semestru. 
+
+
 ## Důležité informace:
 
 - [Základní informace](mtl/info/info-25.pdf)
