@@ -33,34 +33,19 @@ Will appear...
 -->
 ## Lectures:
 
-- Linear algebra: vectors, matrices, determinants  
-  [slides](frrms_aj/lectures/matrices.pdf),
-  [printer-friendly version](frrms_aj/lectures/matrices-text.pdf)
-- Systems of linear equations  
-  [slides](frrms_aj/lectures/systems.pdf),
-  [printer-friendly version](frrms_aj/lectures/systems-text.pdf)
-- Functions - basic concepts  
-  [slides](frrms_aj/lectures/functions.pdf)
-- Limit and continuity  
-  [slides](frrms_aj/lectures/limit.pdf)
-- Derivative  
-  [slides](frrms_aj/lectures/derivative.pdf)
-- Extrema and concavity  
-  [slides](frrms_aj/lectures/extrema.pdf),  
+- [Linear algebra: vectors, matrices, determinants](frrms_aj/lectures/matrices.pdf)
+- [Systems of linear equations](frrms_aj/lectures/systems.pdf)
+- [Functions - basic concepts](frrms_aj/lectures/functions.pdf)
+- [Limit and continuity](frrms_aj/lectures/limit.pdf)
+- [Derivative](frrms_aj/lectures/derivative.pdf)
+- Extrema and concavity: [slides](frrms_aj/lectures/extrema.pdf),
   [practical problems](frrms_aj/lectures/extremy-apl.pdf)
-- Calculus  
-  [slides](frrms_aj/lectures/calculus.pdf),
-  [printer-friendly version](frrms_aj/lectures/derivative-text.pdf)
-- Indefinite integral  
-  [slides](frrms_aj/lectures/indef_integral.pdf),
-  [printer-friendly version](frrms_aj/lectures/indef_integral_text.pdf)
-- Definite integral  
-  [slides](frrms_aj/lectures/def_integral.pdf),
-  [printer-friendly version](frrms_aj/lectures/def_integral_text.pdf)
+- [Indefinite integral](frrms_aj/lectures/indef_integral.pdf)
+- [Definite integral](frrms_aj/lectures/def_integral.pdf)
 - [A suitable textbook](frrms_aj/skripta/Mathematics_I.pdf)
 - [Graphs of basic elementary fucntions](frrms_aj/grafy_el.pdf)
 - [Formulas for differentiation and integration](frrms_aj/formulas.pdf)
-- [Khan Academy](https://www.khanacademy.org/math)
+
 
 ## Problems:
 
@@ -77,6 +62,6 @@ Will appear...
 ## Useful links:
 
 - [Wolfram Alpha](https://www.wolframalpha.com/)
-  
+- [Khan Academy](https://www.khanacademy.org/math)
 
   
