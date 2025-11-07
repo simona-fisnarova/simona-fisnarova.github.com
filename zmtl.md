@@ -4,17 +4,17 @@ layout: default
 ---
 
 
-## Základy vyšší matematiky (ZMTL) - LS 2025/26
+# Základy vyšší matematiky (ZMTL) - LS 2025/26
 <!--
 
-### Důležité informace:
+## Důležité informace:
 
 - [Základní informace](zvmt/info/info_25.pdf)
 - [instrukce ke zkouškové písemce](zvmt/info/z_instrukce_25.pdf)  
 - Ukázky písemek: [ukázka I](zvmt/info/u1.pdf) &nbsp; [řešení](zvmt/info/u1_reseni.pdf),&nbsp;
   [ukázka II](zvmt/info/u2.pdf) &nbsp; [(řešení)](zvmt/info/u2_reseni.pdf)
 -->
-### Přednášky a cvičení (PDF):
+## Přednášky a cvičení (PDF):
 
 - Diferenciální rovnice - základní pojmy a rovnice se separovanými proměnnými <br>
  [prezentace](zvmt/prednasky/dr_separ.pdf),
