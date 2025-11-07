@@ -7,10 +7,10 @@ layout: default
 
 ## Důležité informace:
 
-- [Základní informace](https://user.mendelu.cz/fisnarov/mtl/info/info-25.pdf)
-- [Instrukce k závěrečné písemce](https://user.mendelu.cz/fisnarov/mtl/info/z_instrukce_25.pdf)  
-- Ukázky písemek: [ukázka 1](https://user.mendelu.cz/fisnarov/mtl/info/u1.pdf),  [ukázka
-  2](https://user.mendelu.cz/fisnarov/mtl/info/u2.pdf) 
+- [Základní informace](mtl/info/info-25.pdf)
+- [Instrukce k závěrečné písemce](mtl/info/z_instrukce_25.pdf)  
+- Ukázky písemek: [ukázka 1](mtl/info/u1.pdf),  [ukázka
+  2](mtl/info/u2.pdf) 
 
 
 ### Bonusové úkoly pro studenty prezenční formy:
