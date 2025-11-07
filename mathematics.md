@@ -20,7 +20,8 @@ points of the total 60.
 ## Homework:
 
 Will appear...
-<!--
+
+<div style="display:none">
 - [Homework 1](frrms_aj/homework/homework1.pdf) ,  deadline: March 10,
   2025
 - [Homework 2](frrms_aj/homework/homework2.pdf) ,  deadline: March 24,
@@ -30,7 +31,8 @@ Will appear...
 - [Homework 4](frrms_aj/homework/homework4.pdf)   deadline: April 22,
   2025
 - [Homework 5](frrms_aj/homework/homework5.pdf)   deadline: May 12, 2025
--->
+</div>
+
 ## Lectures:
 
 - [Linear algebra: vectors, matrices, determinants](frrms_aj/lectures/matrices.pdf)
