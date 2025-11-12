@@ -37,40 +37,50 @@ a budou zde vyvěšovány postupně v průběhu semestru.
 
 ## Přednášky a cvičení (PDF):
 
-- Vektory a matice 
+- Vektory a matice <br>
  [prezentace](mtl/prednasky/matice.pdf),
- [Leslieho model I](mtl/prednasky/leslie_1.pdf),   [Markovovy řetězce](mtl/prednasky/markov.pdf) 
+ [Leslieho model I](mtl/prednasky/leslie_1.pdf),   [Markovovy řetězce](mtl/prednasky/markov.pdf) <br>
   [řešené příklady I](mtl/pdfvideo/cv-matice1.pdf) (počítání s
   maticemi - chyba v příkladu 3: na prvním řádku má být 6 místo 5),  
   [řešené příklady II](mtl/pdfvideo/cv-matice2.pdf) (hodnost, inverzní
   matice, determinant)
-- Soustavy lineárních rovnic   [prezentace](mtl/prednasky/soustavy.pdf),
-    [řešené příklady](mtl/pdfvideo/cv-soustavy.pdf),   [slovní
+
+- Soustavy lineárních rovnic <br>
+ [prezentace](mtl/prednasky/soustavy.pdf),
+  [řešené příklady](mtl/pdfvideo/cv-soustavy.pdf),   [slovní
   úloha](mtl/prednasky/soustavy-apl.pdf)
+
 - Vlastní hodnoty a vektory  
   [prezentace](mtl/prednasky/vl_hodnoty.pdf),   [Leslieho model
   II](mtl/prednasky/leslie_2.pdf),   [řešené
   příklady](mtl/pdfvideo/cv-vl_hodnoty.pdf)
-- Funkce jedné a více proměnných   [prezentace
-  I](mtl/prednasky/funkce_1.pdf) (funkce jedné proměnné),   [prezentace
-  II](mtl/prednasky/funkce_2.pdf) (funkce dvou a více proměnných),  
+
+- Funkce jedné a více proměnných  <br>
+  [prezentace I](mtl/prednasky/funkce_1.pdf) (funkce jedné proměnné),
+  [prezentace II](mtl/prednasky/funkce_2.pdf) (funkce dvou a více proměnných),  
   [řešené příklady](mtl/pdfvideo/cv-funkce.pdf),   [exponenciální funkce
   a logaritmus](mtl/pdfvideo/exponencialni.pdf)
-- Limita a spojitost   [prezentace](mtl/prednasky/limita.pdf)
-- Derivace a parciální derivace funkce   [prezentace
-  I](mtl/prednasky/derivace.pdf) (derivace),   [prezentace
-  II](mtl/prednasky/parc-deriv.pdf) (parciální derivace),  
-  [řešené příklady I](mtl/pdfvideo/cv-derivace.pdf) (výpočet),   [řešené
-  příklady II](mtl/pdfvideo/cv-aproximace.pdf) (lineární aproximace),  
+
+- Limita a spojitost (nepovinné) <br>
+  [prezentace](mtl/prednasky/limita.pdf)
+
+- Derivace a parciální derivace funkce  <br>
+  [prezentace I](mtl/prednasky/derivace.pdf) (derivace),
+  [prezentace II](mtl/prednasky/parc-deriv.pdf) (parciální derivace),  
+  [řešené příklady I](mtl/pdfvideo/cv-derivace.pdf) (výpočet),
+  [řešené příklady II](mtl/pdfvideo/cv-aproximace.pdf) (lineární aproximace),  
   [slovní úlohy](mtl/prednasky/derivace-apl.pdf)
+
 - Extrémy funkce jedné proměnné (a konvexnost/konkávnost)  
   [prezentace](mtl/prednasky/extremy.pdf),   [slovní
   úlohy](mtl/prednasky/extremy-apl.pdf),   řešené příklady - viz video
   níže
+
 - Extrémy funkce dvou proměnných  
   [prezentace](mtl/prednasky/extremy2.pdf),   [řešené příklady
   I](mtl/pdfvideo/cv-lok_extr.pdf) (lokální extrémy),   [řešené příklady
   II](mtl/pdfvideo/cv-abs_extr.pdf) (absolutní extrémy)
+
 - Integrální počet   [prezentace I](mtl/prednasky/neurc_int.pdf)
   (neurčitý integrál),   [prezentace II](mtl/prednasky/urc_int.pdf)
   (určitý integrál),   [řešené příklady](mtl/pdfvideo/cv-integraly.pdf) 
