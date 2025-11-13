@@ -3,7 +3,7 @@ title: Matematika
 layout: home
 ---
 
-* [Matematika (MTL)](matematika.html)
+* [Matematika (MTL)](mtl.html)
 * [Základy vyšší matematiky (ZMTL)](zmtl.html)
 * [Mathematics](mathematics.html)
 
