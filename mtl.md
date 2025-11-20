@@ -25,6 +25,7 @@ a budou zde vyvěšovány postupně v průběhu semestru.
 -  [Bonus 2 - prez](mtl/bonus/bonus2.pdf),  deadline 3.11.2025, 
   [řešení](mtl/bonus/bonus2-reseni.pdf)  
 - [Bonus 3 - prez](mtl/bonus/bonus3.pdf),  deadline 19.11.2025
+- [Bonus 4 - prez](mtl/bonus/bonus4.pdf),  deadline 8.12.2025
 
 #### ✏️ Bonusové úkoly pro studenty kombinované formy:
 
