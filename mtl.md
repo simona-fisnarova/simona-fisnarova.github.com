@@ -1,6 +1,6 @@
 ---
 title: Matematika
-layout: default
+layout: home
 ---
 
 # Matematika (MTL) - ZS 2025/26
