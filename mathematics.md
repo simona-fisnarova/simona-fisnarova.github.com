@@ -1,6 +1,6 @@
 ---
 title: Mathematics
-layout: default
+layout: home
 ---
 
 
