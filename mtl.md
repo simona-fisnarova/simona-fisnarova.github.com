@@ -36,8 +36,9 @@ a budou zde vyvěšovány postupně v průběhu semestru.
   [řešení](mtl/bonus/bonus2-reseni_k.pdf)  
 - [Bonus 3 - kombi](mtl/bonus/bonus3-kombi.pdf),  deadline 10.11.2025,
   [řešení](mtl/bonus/bonus3-reseni_k.pdf)  
-- [Bonus 4 - kombi](mtl/bonus/bonus4-kombi.pdf),  deadline 24.11.2025
- 
+- [Bonus 4 - kombi](mtl/bonus/bonus4-kombi.pdf),  deadline 24.11.2025,
+  [řešení](mtl/bonus/bonus4-reseni_k.pdf)  
+- [Bonus 5 - kombi](mtl/bonus/bonus5-kombi.pdf),  deadline 15.12.2025
 ---
 
 
