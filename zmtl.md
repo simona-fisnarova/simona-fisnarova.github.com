@@ -6,6 +6,11 @@ layout: home
 
 # Základy vyšší matematiky (ZMTL) - LS 2025/26
 
+Tato stránka je věnovaná výuce předmětu Základy vyšší matematiy, který vyučuji pro studenty lesnictví na LDF MENDELU v druhém semestru. 
+Níže najdete informace o ukončení předmětu, zadání bonusových úkolů a výukové materiály. Bonusové úkoly jsou dobrovolné 
+a budou zde vyvěšovány postupně v průběhu semestru.
+
+---
 
 ### ⚠️ Důležité informace a bonusové úkoly
 
@@ -18,7 +23,7 @@ layout: home
   
 ### 📖 Přednášky a cvičení (PDF)
 
-- Diferenciální rovnice - základní pojmy a rovnice se separovanými proměnnými <br>
+- ***Diferenciální rovnice*** - základní pojmy a rovnice se separovanými proměnnými <br>
  [prezentace](zvmt/prednasky/dr_separ.pdf),
 [řešené příklady](zvmt/pdfvideo/cv-dr_separ.pdf)
 
@@ -115,6 +120,8 @@ layout: home
   [minimální kostra](https://youtu.be/cCfpAsCUBX4),
   [kritická cesta](https://youtu.be/AN0N1NnQ4K4)
 
+--- 
+
 ### 🧮 Příklady k počítání
 
 - [Rovnice se separovanými proměnnými](zvmt/priklady/dr_sep.pdf)
@@ -124,6 +131,8 @@ layout: home
 - [Autonomní systémy](zvmt/priklady/aut_sys.pdf)
 - [Dvojný integrál](zvmt/priklady/dvojny_int.pdf)
 - [Křivkový integrál](zvmt/priklady/krivkovy.pdf)
+
+--- 
 
 ### 💻 Užití počítačů při matematických výpočtech
 
