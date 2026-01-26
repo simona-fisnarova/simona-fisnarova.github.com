@@ -134,4 +134,6 @@ a budou zde vyvěšovány postupně v průběhu semestru.
 ### 💻 Užití počítačů při matematických výpočtech
 
 - [Wolfram Alpha](http://www.wolframalpha.com/) - vyřeší nejen různé matematické příklady, ale zodpoví i dotazy z jiných oborů
+
+---
   
