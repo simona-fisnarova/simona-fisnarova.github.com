@@ -5,16 +5,18 @@ layout: home
 
 
 # Základy vyšší matematiky (ZMTL) - LS 2025/26
-<!--
 
-## Důležité informace:
 
-- [Základní informace](zvmt/info/info_25.pdf)
-- [instrukce ke zkouškové písemce](zvmt/info/z_instrukce_25.pdf)  
+### ⚠️ Důležité informace a bonusové úkoly
+
+- [Základní informace](zvmt/info/info_25.pdf) k organizaci předmětu, bonusovým úkolům a ukončení předmětu
+- [instrukce ke zkouškové písemce](zvmt/info/z_instrukce_25.pdf) a co si můžete vzít s sebou
 - Ukázky písemek: [ukázka I](zvmt/info/u1.pdf) &nbsp; [řešení](zvmt/info/u1_reseni.pdf),&nbsp;
   [ukázka II](zvmt/info/u2.pdf) &nbsp; [(řešení)](zvmt/info/u2_reseni.pdf)
--->
-## Přednášky a cvičení (PDF):
+
+---
+  
+### 📖 Přednášky a cvičení (PDF)
 
 - Diferenciální rovnice - základní pojmy a rovnice se separovanými proměnnými <br>
  [prezentace](zvmt/prednasky/dr_separ.pdf),
@@ -60,7 +62,9 @@ layout: home
 - Den Pí (k rozptýlení dne 14.3.)  
 [prezentace](zvmt/prednasky/den_pi.pdf)
 
-## Videa:
+---
+
+### 🎥 Videa
 
 - Diferenciální rovnice se separovanými proměnnými  
   [prezentace](https://youtu.be/DrzGIgL3u40),
@@ -111,7 +115,7 @@ layout: home
   [minimální kostra](https://youtu.be/cCfpAsCUBX4),
   [kritická cesta](https://youtu.be/AN0N1NnQ4K4)
 
-## Příklady k počítání:
+### 🧮 Příklady k počítání
 
 - [Rovnice se separovanými proměnnými](zvmt/priklady/dr_sep.pdf)
 - [Lineární rovnice 1. řádu](zvmt/priklady/dr_lin1.pdf)
@@ -121,7 +125,7 @@ layout: home
 - [Dvojný integrál](zvmt/priklady/dvojny_int.pdf)
 - [Křivkový integrál](zvmt/priklady/krivkovy.pdf)
 
-## Užití počítačů při matematických výpočtech:
+### 💻 Užití počítačů při matematických výpočtech
 
 - [Wolfram Alpha](http://www.wolframalpha.com/) - vyřeší nejen různé matematické příklady, ale zodpoví i dotazy z jiných oborů
   
