@@ -15,9 +15,9 @@ a budou zde vyvěšovány postupně v průběhu semestru.
 ### ⚠️ Důležité informace a bonusové úkoly
 
 - [Základní informace](zvmt/info/info_25.pdf) k organizaci předmětu, bonusovým úkolům a ukončení předmětu
-- [instrukce ke zkouškové písemce](zvmt/info/z_instrukce_25.pdf) a co si můžete vzít s sebou
-- Ukázky písemek: [ukázka I](zvmt/info/u1.pdf) &nbsp; [řešení](zvmt/info/u1_reseni.pdf),&nbsp;
-  [ukázka II](zvmt/info/u2.pdf) &nbsp; [(řešení)](zvmt/info/u2_reseni.pdf)
+- [Instrukce ke zkouškové písemce](zvmt/info/z_instrukce_25.pdf) a co si můžete vzít s sebou
+- Ukázky písemek: [ukázka I](zvmt/info/u1.pdf) + [řešení](zvmt/info/u1_reseni.pdf),&nbsp;
+  [ukázka II](zvmt/info/u2.pdf) + [řešení](zvmt/info/u2_reseni.pdf)
 
 ---
   
@@ -25,15 +25,15 @@ a budou zde vyvěšovány postupně v průběhu semestru.
 
 - **Diferenciální rovnice - základní pojmy a rovnice se separovanými proměnnými** 
   - [prezentace](zvmt/prednasky/dr_separ.pdf),
-  - [řešené příklady](zvmt/pdfvideo/cv-dr_separ.pdf)
+   [řešené příklady](zvmt/pdfvideo/cv-dr_separ.pdf)
 
 - **Lineární diferenciální rovnice 1.řádu**  
    - [prezentace](zvmt/prednasky/dr_lin.pdf),
-   - [řešené příklady](zvmt/pdfvideo/cv-dr_lin1.pdf)
+    [řešené příklady](zvmt/pdfvideo/cv-dr_lin1.pdf)
 
 - **Lineární diferenciální rovnice 2.řádu**  
    - [prezentace](zvmt/prednasky/dr_lin2.pdf),
-   - [řešené příklady](zvmt/pdfvideo/cv-lin2.pdf)
+    [řešené příklady](zvmt/pdfvideo/cv-lin2.pdf)
 
 - **Aplikace diferenciálníc rovnic**
   - [populační modely](zvmt/aplikace/populace.pdf),
@@ -42,12 +42,12 @@ a budou zde vyvěšovány postupně v průběhu semestru.
 
 - **Autonomní systémy**
   - [prezentace](zvmt/prednasky/aut_sys.pdf),
-  - [řešené příklady](zmtl/pdfvideo/cv-aut_sys.pdf),
+   [řešené příklady](zmtl/pdfvideo/cv-aut_sys.pdf),
   - [model dravec-kořist](zvmt/aplikace/dravec.pdf), [kreslení trajektorií](https://homepages.bluffton.edu/~nesterd/apps/slopefields.html)
 
 - **Dvojný integrál**
   - [prezentace](zvmt/prednasky/dvojny_int.pdf),
-  - [řešené příklady I](zvmt/pdfvideo/cv-int.pdf), [řešené příklady II (polární souřadnice)](zvmt/pdfvideo/cv-int_polar.pdf),
+   [řešené příklady I](zvmt/pdfvideo/cv-int.pdf), [řešené příklady II (polární souřadnice)](zvmt/pdfvideo/cv-int_polar.pdf),
   - [aplikace](zvmt/aplikace/dvojny_int-apl.pdf)
 
 - **Křivkový integrál**   
@@ -85,7 +85,7 @@ a budou zde vyvěšovány postupně v průběhu semestru.
 
 - **Aplikace diferenciálních rovnic**  
   - [motivace](zmtl/Eqdf.MPG),
-  [ropná skvrna](https://youtu.be/5Z58QzWXF_c),
+  - [ropná skvrna](https://youtu.be/5Z58QzWXF_c),
   [chladnutí polévky](https://youtu.be/zNQw2dHdfoM),
   [samočištění jezera](https://youtu.be/4R6KDjNgD5k),
   [populace jelenů](https://youtu.be/BMo23YnSdi8)
@@ -93,13 +93,13 @@ a budou zde vyvěšovány postupně v průběhu semestru.
 - **Autonomní systémy**  
    - [prezentace](https://youtu.be/rvb7wjraVNY),
   [řešené příklady](https://youtu.be/2XlpvW9Lwy8),
-  [model dravec-kořist](https://youtu.be/UGEGuexOIzA)
+   - [model dravec-kořist](https://youtu.be/UGEGuexOIzA)
 
 - **Dvojný integrál**  
    - [prezentace (na obdélníku)](https://youtu.be/sY8JQVAfW4I),
   [prezentace (na obecnější množině)](https://youtu.be/3P41EG2mhUs),
   [prezentace (polární souřadnice)](https://youtu.be/F6Z-sbvCN3A),<br>
-  [řešené příklady I](https://youtu.be/ov7RHizv0p0),
+   - [řešené příklady I](https://youtu.be/ov7RHizv0p0),
   [řešené příklady II (polární souřadnice)](https://youtu.be/8KnDndTUQqY)
 
 - **Křivkový integrál**  
