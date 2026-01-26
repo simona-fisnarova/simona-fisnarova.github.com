@@ -28,12 +28,12 @@ a budou zde vyvěšovány postupně v průběhu semestru.
    - [řešené příklady](zvmt/pdfvideo/cv-dr_separ.pdf)
 
 - **Lineární diferenciální rovnice 1.řádu**  
-   -[prezentace](zvmt/prednasky/dr_lin.pdf),
-   -[řešené příklady](zvmt/pdfvideo/cv-dr_lin1.pdf)
+   - [prezentace](zvmt/prednasky/dr_lin.pdf),
+   - [řešené příklady](zvmt/pdfvideo/cv-dr_lin1.pdf)
 
 - **Lineární diferenciální rovnice 2.řádu**  
-   -[prezentace](zvmt/prednasky/dr_lin2.pdf),
-   -[řešené příklady](zvmt/pdfvideo/cv-lin2.pdf)
+   - [prezentace](zvmt/prednasky/dr_lin2.pdf),
+   - [řešené příklady](zvmt/pdfvideo/cv-lin2.pdf)
 
 - Aplikace diferenciálníc rovnic <br>
 [populační modely](zvmt/aplikace/populace.pdf),
