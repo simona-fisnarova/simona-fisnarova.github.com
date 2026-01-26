@@ -24,8 +24,8 @@ a budou zde vyvěšovány postupně v průběhu semestru.
 ### 📖 Přednášky a cvičení (PDF)
 
 - **Diferenciální rovnice - základní pojmy a rovnice se separovanými proměnnými** 
-   - [prezentace](zvmt/prednasky/dr_separ.pdf),
-   - [řešené příklady](zvmt/pdfvideo/cv-dr_separ.pdf)
+  - [prezentace](zvmt/prednasky/dr_separ.pdf),
+  - [řešené příklady](zvmt/pdfvideo/cv-dr_separ.pdf)
 
 - **Lineární diferenciální rovnice 1.řádu**  
    - [prezentace](zvmt/prednasky/dr_lin.pdf),
