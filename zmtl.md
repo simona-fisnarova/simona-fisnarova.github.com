@@ -35,37 +35,34 @@ a budou zde vyvěšovány postupně v průběhu semestru.
    - [prezentace](zvmt/prednasky/dr_lin2.pdf),
    - [řešené příklady](zvmt/pdfvideo/cv-lin2.pdf)
 
-- Aplikace diferenciálníc rovnic <br>
-[populační modely](zvmt/aplikace/populace.pdf),
-[slovní úlohy na rovnice 1.řádu](zvmt/aplikace/apl-dr1.pdf),
-[rovnice 2. řádu (pružina a výška stromu)](zvmt/aplikace/apl-dr_lin2.pdf)
+- **Aplikace diferenciálníc rovnic**
+  - [populační modely](zvmt/aplikace/populace.pdf),
+  - [slovní úlohy na rovnice 1.řádu](zvmt/aplikace/apl-dr1.pdf),
+  - [rovnice 2. řádu (pružina a výška stromu)](zvmt/aplikace/apl-dr_lin2.pdf)
 
-- Autonomní systémy   <br>
-[prezentace](zvmt/prednasky/aut_sys.pdf), [řešené příklady](zmtl/pdfvideo/cv-aut_sys.pdf),
-[model dravec-kořist](zvmt/aplikace/dravec.pdf), [kreslení trajektorií](https://homepages.bluffton.edu/~nesterd/apps/slopefields.html)
+- **Autonomní systémy**
+  - [prezentace](zvmt/prednasky/aut_sys.pdf),
+  - [řešené příklady](zmtl/pdfvideo/cv-aut_sys.pdf),
+  - [model dravec-kořist](zvmt/aplikace/dravec.pdf), [kreslení trajektorií](https://homepages.bluffton.edu/~nesterd/apps/slopefields.html)
 
-- Dvojný integrál   <br>
-[prezentace](zvmt/prednasky/dvojny_int.pdf),
-[řešené příklady I](zvmt/pdfvideo/cv-int.pdf),
-[řešené příklady II (polární souřadnice)](zvmt/pdfvideo/cv-int_polar.pdf),
-[aplikace](zvmt/aplikace/dvojny_int-apl.pdf)
+- **Dvojný integrál**
+  - [prezentace](zvmt/prednasky/dvojny_int.pdf),
+  - [řešené příklady I](zvmt/pdfvideo/cv-int.pdf), [řešené příklady II (polární souřadnice)](zvmt/pdfvideo/cv-int_polar.pdf),
+  - [aplikace](zvmt/aplikace/dvojny_int-apl.pdf)
 
-- Křivkový integrál   
- [prezentace I (1. druhu)](zvmt/prednasky/1-krivkovy.pdf),
-[řešené příklady I (1. druhu)](zvmt/pdfvideo/cv-krivkovy1.pdf),
-[prezentace II (2. druhu)](zvmt/prednasky/2-krivkovy.pdf),
-[řešené příklady II (2. druhu)](zvmt/pdfvideo/cv-krivkovy2.pdf), <br>
-[Diferenciální operátory](zvmt/prednasky/operatory.pdf),
-[Nezávislost na integrační cestě](zvmt/prednasky/krivkovy_nezav.pdf),
-[Greenova věta](zvmt/prednasky/green.pdf)
+- **Křivkový integrál**   
+  - [prezentace I (1. druhu)](zvmt/prednasky/1-krivkovy.pdf), [řešené příklady I (1. druhu)](zvmt/pdfvideo/cv-krivkovy1.pdf),
+  - [prezentace II (2. druhu)](zvmt/prednasky/2-krivkovy.pdf), [řešené příklady II (2. druhu)](zvmt/pdfvideo/cv-krivkovy2.pdf), 
+  - [Diferenciální operátory](zvmt/prednasky/operatory.pdf),
+    [Nezávislost na integrační cestě](zvmt/prednasky/krivkovy_nezav.pdf),
+    [Greenova věta](zvmt/prednasky/green.pdf)
 
-- Základy teorie grafů <br>
-[prezentace](zvmt/prednasky/grafy.pdf),
-[řešené příklady I](zvmt/pdfvideo/cv-grafy.pdf),
-[řešené příklady II](zvmt/priklady/prikl_grafy.pdf)
+- **Základy teorie grafů**
+  - [prezentace](zvmt/prednasky/grafy.pdf),
+  - [řešené příklady I](zvmt/pdfvideo/cv-grafy.pdf), [řešené příklady II](zvmt/priklady/prikl_grafy.pdf)
 
-- Den Pí (k rozptýlení dne 14.3.)  
-[prezentace](zvmt/prednasky/den_pi.pdf)
+- **Den Pí (k rozptýlení dne 14.3.)**  
+ - [prezentace](zvmt/prednasky/den_pi.pdf)
 
 ---
 
