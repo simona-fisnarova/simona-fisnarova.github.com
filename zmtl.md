@@ -38,7 +38,7 @@ a budou zde vyvěšovány postupně v průběhu semestru.
 - **Aplikace diferenciálníc rovnic**
   - [populační modely](zvmt/aplikace/populace.pdf),
   - [slovní úlohy na rovnice 1.řádu](zvmt/aplikace/apl-dr1.pdf),
-  - [rovnice 2. řádu (pružina a výška stromu)](zvmt/aplikace/apl-dr_lin2.pdf)
+  - [rovnice 2. řádu](zvmt/aplikace/apl-dr_lin2.pdf) (pružina a výška stromu)
 
 - **Autonomní systémy**
   - [prezentace](zvmt/prednasky/aut_sys.pdf),
@@ -47,12 +47,12 @@ a budou zde vyvěšovány postupně v průběhu semestru.
 
 - **Dvojný integrál**
   - [prezentace](zvmt/prednasky/dvojny_int.pdf),
-   [řešené příklady I](zvmt/pdfvideo/cv-int.pdf), [řešené příklady II (polární souřadnice)](zvmt/pdfvideo/cv-int_polar.pdf),
+   [řešené příklady I](zvmt/pdfvideo/cv-int.pdf), [řešené příklady II](zvmt/pdfvideo/cv-int_polar.pdf) (polární souřadnice),
   - [aplikace](zvmt/aplikace/dvojny_int-apl.pdf)
 
 - **Křivkový integrál**   
-  - [prezentace I (1. druhu)](zvmt/prednasky/1-krivkovy.pdf), [řešené příklady I (1. druhu)](zvmt/pdfvideo/cv-krivkovy1.pdf),
-  - [prezentace II (2. druhu)](zvmt/prednasky/2-krivkovy.pdf), [řešené příklady II (2. druhu)](zvmt/pdfvideo/cv-krivkovy2.pdf), 
+  - [prezentace I](zvmt/prednasky/1-krivkovy.pdf) (integrál 1.druhu), [řešené příklady I](zvmt/pdfvideo/cv-krivkovy1.pdf),
+  - [prezentace II](zvmt/prednasky/2-krivkovy.pdf) (integrál 2. druhu), [řešené příklady II](zvmt/pdfvideo/cv-krivkovy2.pdf), 
   - [Diferenciální operátory](zvmt/prednasky/operatory.pdf),
     [Nezávislost na integrační cestě](zvmt/prednasky/krivkovy_nezav.pdf),
     [Greenova věta](zvmt/prednasky/green.pdf)
