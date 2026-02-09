@@ -6,7 +6,7 @@ layout: home
 
 # Mathematics - 2025/26
 
-## Exam:
+## 🎓 Exam
 
 There will be a written exam consisting of both theoretical questions
 and practical problems to solve. The maximum points from the exam is 50.
@@ -33,7 +33,7 @@ Will appear...
 - [Homework 5](frrms_aj/homework/homework5.pdf)   deadline: May 12, 2025
 </div>
 
-## Lectures:
+## 📖 Lectures
 
 - [Linear algebra: vectors, matrices, determinants](frrms_aj/lectures/matrices.pdf)
 - [Systems of linear equations](frrms_aj/lectures/systems.pdf)
@@ -61,7 +61,7 @@ Will appear...
 - [Integrals - basic formulas and operations](frrms_aj/examples/integrals.pdf)
 - [Integrals - substitution, by parts, definite inegral](frrms_aj/examples/integrals2.pdf)
 
-## Useful links:
+## ↗️ Useful links
 
 - [Wolfram Alpha](https://www.wolframalpha.com/)
 - [Khan Academy](https://www.khanacademy.org/math)
