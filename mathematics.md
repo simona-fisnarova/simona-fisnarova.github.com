@@ -17,7 +17,7 @@ points of the total 60.
 - [Sample exam](frrms_aj/exam0.pdf) , 
   [solution](frrms_aj/sample_solution.pdf)
 
-## Homework:
+## ✏️ Homework
 
 Will appear...
 
