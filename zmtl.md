@@ -124,7 +124,7 @@ a budou zde vyvěšovány postupně v průběhu semestru.
 - [Rovnice se separovanými proměnnými](zvmt/priklady/dr_sep.pdf)
 - [Lineární rovnice 1. řádu](zvmt/priklady/dr_lin1.pdf)
 - [Lineární rovnice 2. řádu](zvmt/priklady/dr_lin2.pdf)
-- [Slovní úlohy na diferenciální rovnice](zvmt/priklady/dr_ulohy.pdf),  [řešení](zvmt/priklady/dr_ulohy_reseni.pdf)
+- [Slovní úlohy na diferenciální rovnice](zvmt/priklady/dr_ulohy.pdf) + [řešení](zvmt/priklady/dr_ulohy_reseni.pdf)
 - [Autonomní systémy](zvmt/priklady/aut_sys.pdf)
 - [Dvojný integrál](zvmt/priklady/dvojny_int.pdf)
 - [Křivkový integrál](zvmt/priklady/krivkovy.pdf)
