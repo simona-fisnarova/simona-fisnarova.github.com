@@ -14,7 +14,7 @@ In addition, there is possibility to obtain 10 bonus points from
 homework (5 assignments, each is 2 points). To pass the exam you need 25
 points of the total 60.
 
-- [Sample exam](frrms_aj/exam0.pdf) , 
+- [Sample exam](frrms_aj/exam0.pdf) + 
   [solution](frrms_aj/sample_solution.pdf)
 
 ---
