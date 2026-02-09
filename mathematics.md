@@ -49,7 +49,7 @@ Will appear...
 - [Formulas for differentiation and integration](frrms_aj/formulas.pdf)
 
 
-## Problems:
+## 🧮 Problems
 
 - [Linear algebra](frrms_aj/examples/lingebra.pdf)
 - [Matrices (operations, rank)](frrms_aj/examples/matrices.pdf)
