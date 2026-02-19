@@ -6,7 +6,7 @@ layout: home
 
 # Základy vyšší matematiky (ZMTL) - LS 2025/26
 
-Tato stránka je věnovaná výuce předmětu Základy vyšší matematiy, který vyučuji pro studenty lesnictví na LDF MENDELU v druhém semestru. 
+Tato stránka je věnovaná výuce předmětu Základy vyšší matematiky, který vyučuji pro studenty lesnictví na LDF MENDELU v druhém semestru. 
 Níže najdete informace o ukončení předmětu, zadání bonusových úkolů a výukové materiály. Bonusové úkoly jsou dobrovolné 
 a budou zde vyvěšovány postupně v průběhu semestru.
 
