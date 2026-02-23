@@ -25,6 +25,7 @@ a budou zde vyvěšovány postupně v průběhu semestru.
 - [Bonus 1 - kombi](zvmt/bonus/bonus1-kombi.pdf),  deadline 2.3.2026 
 - [Bonus 2 - kombi](zvmt/bonus/bonus2-kombi.pdf),  deadline 16.3.2026 
 - [Bonus 3 - kombi](zvmt/bonus/bonus3-kombi.pdf),  deadline 30.3.2026
+ 
 ---
   
 ### 📖 Přednášky a cvičení (PDF)
