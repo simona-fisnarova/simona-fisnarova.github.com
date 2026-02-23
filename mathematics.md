@@ -21,19 +21,9 @@ points of the total 60.
 
 ### ✏️ Homework
 
-Will appear...
+- [Homework 1](frrms_aj/hw/homework1.pdf) ,  deadline: March 9, 2026
 
-<div style="display:none">
-- [Homework 1](frrms_aj/homework/homework1.pdf) ,  deadline: March 10,
-  2025
-- [Homework 2](frrms_aj/homework/homework2.pdf) ,  deadline: March 24,
-  2025
-- [Homework 3](frrms_aj/homework/homework3.pdf)   deadline: April 7,
-  2025
-- [Homework 4](frrms_aj/homework/homework4.pdf)   deadline: April 22,
-  2025
-- [Homework 5](frrms_aj/homework/homework5.pdf)   deadline: May 12, 2025
-</div>
+
 
 ---
 
