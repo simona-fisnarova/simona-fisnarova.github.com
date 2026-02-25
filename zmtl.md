@@ -19,6 +19,10 @@ a budou zde vyvěšovány postupně v průběhu semestru.
 - Ukázky písemek: [ukázka I](zvmt/info/u1.pdf) + [řešení](zvmt/info/u1_reseni.pdf),&nbsp;
   [ukázka II](zvmt/info/u2.pdf) + [řešení](zvmt/info/u2_reseni.pdf)
 
+#### ✏️ Bonusové úkoly pro studenty prezenční formy:
+
+- [Bonus - prez](zvmt/bonus/bonus1.pdf),  deadline 9.3.2026 
+
 
 #### ✏️ Bonusové úkoly pro studenty kombinované formy:
 
