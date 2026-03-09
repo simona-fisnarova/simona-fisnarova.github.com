@@ -55,7 +55,8 @@ a budou zde vyvěšovány postupně v průběhu semestru.
 - **Autonomní systémy**
   - [prezentace](zvmt/prednasky/aut_sys.pdf),
    [řešené příklady](zvmt/pdfvideo/cv-aut_sys.pdf),
-  - [model dravec-kořist](zvmt/aplikace/dravec.pdf), [kreslení trajektorií](https://homepages.bluffton.edu/~nesterd/apps/slopefields.html)
+  - [model dravec-kořist](zvmt/aplikace/dravec.pdf), [model konkurence dvou druhů](zvmt/aplikace/los-jelen.pdf)
+  - [kreslení trajektorií](https://homepages.bluffton.edu/~nesterd/apps/slopefields.html)
 
 - **Dvojný integrál**
   - [prezentace](zvmt/prednasky/dvojny_int.pdf),
