@@ -21,7 +21,8 @@ a budou zde vyvěšovány postupně v průběhu semestru.
 
 #### ✏️ Bonusové úkoly pro studenty prezenční formy:
 
-- [Bonus 1 - prez](zvmt/bonus/bonus1.pdf),  deadline 9.3.2026 
+- [Bonus 1 - prez](zvmt/bonus/bonus1.pdf),  deadline 9.3.2026.
+      [řešení](zvmt/bonus/bonus1-reseni.pdf)
 - [Bonus 2 - prez](zvmt/bonus/bonus2.pdf),  deadline 24.3.2026 
 
 #### ✏️ Bonusové úkoly pro studenty kombinované formy:
