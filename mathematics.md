@@ -23,7 +23,7 @@ points of the total 60.
 
 - [Homework 1](frrms_aj/hw/homework1.pdf) ,  deadline: March 9, 2026
 - [Homework 2](frrms_aj/hw/homework2.pdf) ,  deadline: March 23, 2026
-
+- [Homework 3](frrms_aj/hw/homework3.pdf) ,  deadline: April 13, 2026
 
 ---
 
