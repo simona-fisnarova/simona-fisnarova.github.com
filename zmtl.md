@@ -29,6 +29,7 @@ a budou zde vyvěšovány postupně v průběhu semestru.
       [řešení](zvmt/bonus/bonus3-reseni.pdf)
 - [Bonus 4 - prez](zvmt/bonus/bonus4.pdf),  deadline 4.5.2026
 
+
 #### ✏️ Bonusové úkoly pro studenty kombinované formy:
 
 - [Bonus 1 - kombi](zvmt/bonus/bonus1-kombi.pdf),  deadline 2.3.2026,
@@ -38,7 +39,8 @@ a budou zde vyvěšovány postupně v průběhu semestru.
 - [Bonus 3 - kombi](zvmt/bonus/bonus3-kombi.pdf),  deadline 30.3.2026,
     [řešení](zvmt/bonus/bonus3-kombi_reseni.pdf)
 - [Bonus 4 - kombi](zvmt/bonus/bonus4-kombi.pdf),  deadline 13.4.2026
- 
+- [Bonus 5 - kombi](zvmt/bonus/bonus5-kombi.pdf),  deadline 28.4.2026
+
 ---
   
 ### 📖 Přednášky a cvičení (PDF)
