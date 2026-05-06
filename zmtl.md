@@ -27,7 +27,8 @@ a budou zde vyvěšovány postupně v průběhu semestru.
       [řešení](zvmt/bonus/bonus2-reseni.pdf)
 - [Bonus 3 - prez](zvmt/bonus/bonus3.pdf),  deadline 7.4.2026,
       [řešení](zvmt/bonus/bonus3-reseni.pdf)
-- [Bonus 4 - prez](zvmt/bonus/bonus4.pdf),  deadline 4.5.2026
+- [Bonus 4 - prez](zvmt/bonus/bonus4.pdf),  deadline 4.5.2026,
+      [řešení](zvmt/bonus/bonus4-reseni.pdf)
 - [Bonus 5 - prez](zvmt/bonus/bonus5.pdf),  deadline 18.5.2026
 
 
@@ -41,8 +42,9 @@ a budou zde vyvěšovány postupně v průběhu semestru.
     [řešení](zvmt/bonus/bonus3-kombi_reseni.pdf)
 - [Bonus 4 - kombi](zvmt/bonus/bonus4-kombi.pdf),  deadline 13.4.2026,
     [řešení](zvmt/bonus/bonus4-kombi_reseni.pdf)
-- [Bonus 5 - kombi](zvmt/bonus/bonus5-kombi.pdf),  deadline 28.4.2026
-
+- [Bonus 5 - kombi](zvmt/bonus/bonus5-kombi.pdf),  deadline 28.4.2026,
+    [řešení](zvmt/bonus/bonus5-kombi_reseni.pdf)
+  
 ---
   
 ### 📖 Přednášky a cvičení (PDF)
