@@ -16,7 +16,9 @@ a budou zde vyvěšovány postupně v průběhu semestru.
 - [Základní informace](mtl/info/info-25.pdf) k organizaci předmětu, bonusovým úkolům a ukončení předmětu
 - [Instrukce k závěrečné písemce](mtl/info/z_instrukce_25.pdf) a co si můžete vzít s sebou 
 - Ukázky písemek: [ukázka 1](mtl/info/u1.pdf),  [ukázka
-  2](mtl/info/u2.pdf) 
+  2](mtl/info/u2.pdf)
+
+<!--
 
 #### ✏️ Bonusové úkoly pro studenty prezenční formy:
 
@@ -44,6 +46,7 @@ a budou zde vyvěšovány postupně v průběhu semestru.
 - [Bonus 5 - kombi](mtl/bonus/bonus5-kombi.pdf),  deadline 15.12.2025,
   [řešení](mtl/bonus/bonus5-reseni_k.pdf)  
 
+-->
 ---
 
 ### 📖 Přednášky a cvičení (PDF) 
