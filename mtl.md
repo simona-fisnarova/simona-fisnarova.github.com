@@ -13,7 +13,7 @@ a budou zde vyvěšovány postupně v průběhu semestru.
 
 ### ⚠️ Důležité informace a bonusové úkoly
 
-- [Základní informace](mtl/info/info-25.pdf) k organizaci předmětu, bonusovým úkolům a ukončení předmětu
+- [Základní informace](mtl/info/info-26.pdf) k organizaci předmětu, bonusovým úkolům a ukončení předmětu
 - [Instrukce k závěrečné písemce](mtl/info/z_instrukce_25.pdf) a co si můžete vzít s sebou 
 - Ukázky písemek: [ukázka 1](mtl/info/u1.pdf),  [ukázka
   2](mtl/info/u2.pdf)
