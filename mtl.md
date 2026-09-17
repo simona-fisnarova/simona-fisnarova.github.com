@@ -18,19 +18,20 @@ a budou zde vyvěšovány postupně v průběhu semestru.
 - Ukázky písemek: [ukázka 1](mtl/info/u1.pdf),  [ukázka
   2](mtl/info/u2.pdf)
 
-<!--
+
 
 #### ✏️ Bonusové úkoly pro studenty prezenční formy:
 
-- [Bonus 1 - prez](mtl/bonus/bonus1.pdf),  deadline 20.10.2025, 
-  [řešení](mtl/bonus/bonus1-reseni.pdf)  
--  [Bonus 2 - prez](mtl/bonus/bonus2.pdf),  deadline 3.11.2025, 
-  [řešení](mtl/bonus/bonus2-reseni.pdf)  
-- [Bonus 3 - prez](mtl/bonus/bonus3.pdf),  deadline 19.11.2025,
+- [Bonus 1 - prez](mtl/bonus/bonus1.pdf),  deadline 19.10.2026
+ 
+<!-- 
+-  [Bonus 2 - prez](mtl/bonus/bonus2.pdf),  deadline 2.11.2026, 
+  [řešení](mtl/bonus/bonus2-reseni.pdf)
+- [Bonus 3 - prez](mtl/bonus/bonus3.pdf),  deadline 16.11.2026,
   [řešení](mtl/bonus/bonus3-reseni.pdf)
-- [Bonus 4 - prez](mtl/bonus/bonus4.pdf),  deadline 8.12.2025,
+- [Bonus 4 - prez](mtl/bonus/bonus4.pdf),  deadline 30.11.2026,
   [řešení](mtl/bonus/bonus4-reseni.pdf)
-- [Bonus 5 - prez](mtl/bonus/bonus5.pdf),  deadline 17.12.2025,
+- [Bonus 5 - prez](mtl/bonus/bonus5.pdf),  deadline 14.12.2026,
   [řešení](mtl/bonus/bonus5-reseni.pdf)
 
   -->
