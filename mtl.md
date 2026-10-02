@@ -58,7 +58,8 @@ a budou zde vyvěšovány postupně v průběhu semestru.
 -  **Vektory a matice**
    - [prezentace](mtl/prednasky/matice.pdf), [Leslieho model I](mtl/prednasky/leslie_1.pdf), [Markovovy řetězce](mtl/prednasky/markov.pdf) 
    - [řešené příklady I](mtl/pdfvideo/cv-matice1.pdf) (počítání s maticemi - chyba v příkladu 3: na prvním řádku má být 6 místo 5),  
-   - [řešené příklady II](mtl/pdfvideo/cv-matice2.pdf) (hodnost, inverzní matice, determinant)
+   - [řešené příklady II](mtl/pdfvideo/cv-matice2.pdf) (hodnost, inverzní matice, determinant), [slovní
+  úloha](mtl/prednasky/hodnost-apl.pdf)
 
 -  **Soustavy lineárních rovnic** 
    - [prezentace](mtl/prednasky/soustavy.pdf),
