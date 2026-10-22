@@ -22,7 +22,7 @@ a budou zde vyvěšovány postupně v průběhu semestru.
 
 #### ✏️ Bonusové úkoly pro studenty prezenční formy:
 
-- [Bonus 1 - prez](mtl/bonus/bonus1.pdf),  deadline 19.10.2026
+- [Bonus 1 - prez](mtl/bonus/bonus1.pdf),  deadline 19.10.2026,
   [řešení](mtl/bonus/bonus1-reseni.pdf)
 - [Bonus 2 - prez](mtl/bonus/bonus2.pdf),  deadline 2.11.2026
  
@@ -42,7 +42,8 @@ a budou zde vyvěšovány postupně v průběhu semestru.
 
 - [Bonus 1 - kombi](mtl/bonus/bonus1-kombi.pdf),  deadline 5.10.2026,
    [řešení](mtl/bonus/bonus1-reseni_k.pdf)
-- [Bonus 2 - kombi](mtl/bonus/bonus2-kombi.pdf),  deadline 19.10.2026
+- [Bonus 2 - kombi](mtl/bonus/bonus2-kombi.pdf),  deadline 19.10.2026,
+   [řešení](mtl/bonus/bonus2-reseni_k.pdf)
 - [Bonus 3 - kombi](mtl/bonus/bonus3-kombi.pdf),  deadline 2.11.2026
 
 <!--
