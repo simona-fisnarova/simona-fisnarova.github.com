@@ -24,7 +24,8 @@ a budou zde vyvěšovány postupně v průběhu semestru.
 
 - [Bonus 1 - prez](mtl/bonus/bonus1.pdf),  deadline 19.10.2026,
   [řešení](mtl/bonus/bonus1-reseni.pdf)
-- [Bonus 2 - prez](mtl/bonus/bonus2.pdf),  deadline 2.11.2026
+- [Bonus 2 - prez](mtl/bonus/bonus2.pdf),  deadline 2.11.2026,
+  [řešení](mtl/bonus/bonus2-reseni.pdf)
 - [Bonus 3 - prez](mtl/bonus/bonus3.pdf),  deadline 16.11.2026
  
 <!-- 
@@ -45,7 +46,8 @@ a budou zde vyvěšovány postupně v průběhu semestru.
    [řešení](mtl/bonus/bonus1-reseni_k.pdf)
 - [Bonus 2 - kombi](mtl/bonus/bonus2-kombi.pdf),  deadline 19.10.2026,
    [řešení](mtl/bonus/bonus2-reseni_k.pdf)
-- [Bonus 3 - kombi](mtl/bonus/bonus3-kombi.pdf),  deadline 2.11.2026
+- [Bonus 3 - kombi](mtl/bonus/bonus3-kombi.pdf),  deadline 2.11.2026,
+  [řešení](mtl/bonus/bonus3-reseni_k.pdf)
 - [Bonus 4 - kombi](mtl/bonus/bonus4-kombi.pdf),  deadline 23.11.2026
 
 <!--
